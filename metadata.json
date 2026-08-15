@@ -1,0 +1,11 @@
+{
+  "name": "Gaijin Wheels Parts",
+  "description": "Wholesale exporter of high-grade spare parts, JDM half cuts, and salvaged vehicles from Japan in full containers (20/40ft) for scrap yards and dismantlers worldwide.",
+  "requestFramePermissions": [
+    "camera",
+    "geolocation"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
